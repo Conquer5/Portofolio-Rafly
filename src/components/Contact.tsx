@@ -10,7 +10,7 @@ export function Contact() {
         <div className="contact__layout">
           <div className="contact__pitch">
             <h2>Let&apos;s work<br />together<span>.</span></h2>
-            <p>Open to AI engineering, data science, and data engineering opportunities where useful systems matter.</p>
+            <p>Open to data science, machine learning, and applied AI opportunities, plus data and analytics consulting.</p>
             <a className="contact__email" href="mailto:raflyanugrahsyahputra.1@gmail.com">
               <span>Available for opportunities</span><ArrowIcon />
             </a>
@@ -28,7 +28,7 @@ export function Contact() {
           </div>
         </div>
         <div className="contact__links">
-          <p>Based in Jakarta, Indonesia · Available worldwide</p>
+          <p>Based in South Jakarta, Indonesia · Available worldwide</p>
           <a href="#top">Back to top <ArrowIcon /></a>
         </div>
       </div>
